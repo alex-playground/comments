@@ -1,6 +1,6 @@
 {
   "name": "@alex-playground/comments",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Comments Widget",
   "main": "src/index.js",
   "scripts": {
