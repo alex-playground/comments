@@ -1,0 +1,14 @@
+{
+  "name": "@alex-playground/comments",
+  "version": "1.0.0",
+  "description": "Comments Widget",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alubchuk",
+  "license": "ISC",
+  "dependencies": {
+    "@alex-playground/containers": "^1.0.0"
+  }
+}
